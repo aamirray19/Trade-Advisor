@@ -1,0 +1,14 @@
+python-dotenv
+pandas
+numpy
+yfinance
+finnhub-python
+praw
+tweepy
+scikit-learn
+nltk
+transformers
+torch
+ta
+SQLAlchemy
+psycopg2-binary 
