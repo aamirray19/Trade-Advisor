@@ -12,3 +12,4 @@ torch
 ta
 SQLAlchemy
 psycopg2-binary 
+peft
